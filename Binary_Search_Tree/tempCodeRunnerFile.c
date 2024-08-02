@@ -1,2 +1,2 @@
 
-	if (*node == NULL)
+		BSTNode *current = pop(&s);
